@@ -1,4 +1,4 @@
-# Let's talk about codign environments
+# Let's talk about coding environments
 
 Confused about which IDE or text editor to use for your next python project? Or even what is the difference between IDE's and text editors in the first place. Don't Worry, we got you covered! Here an exciting new series which will introduce you to some of the popular coding environments for python including Google Colab, Jupyter notebooks, Vim, VS Code and many more.
 
