@@ -6,7 +6,7 @@ Given at [Women Who Code Python](https://www.womenwhocode.com/python)
 
 ## Speakers
 
-* Poojita Garg
+* Poojita Garg: [LinkedIn](https://www.linkedin.com/in/poojita-garg-a4201118b/)
 * Nayeon Shin
 * Jessica Koubi: [LinkedIn](https://www.linkedin.com/in/jessicakoubi/) | [GitHub](https://github.com/jessicakoubi)
 
