@@ -28,3 +28,10 @@ Plugins used during the session were:
 * <https://github.com/jiangmiao/auto-pairs>
 * <https://github.com/dense-analysis/ale>
 * <https://github.com/powerline/powerline>
+
+## Session External Links
+
+* Vim: <https://www.vim.org/>
+* Vim Golf: <https://www.vimgolf.com/>
+* Atom: <https://atom.io/>
+* Sublime Text: <https://www.sublimetext.com/>
