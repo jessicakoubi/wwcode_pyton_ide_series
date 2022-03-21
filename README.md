@@ -20,7 +20,9 @@ Configuration files used and additional informations are available under each se
 
 ## Recording
 
-No recordings available yet
+Recordings of the series are available on YouTube:
+
+* [session 01](https://www.youtube.com/watch?v=uAiHK9z1FXE)
 
 ## Slides
 
